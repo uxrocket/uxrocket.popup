@@ -1,0 +1,27 @@
+{
+  "name": "uxrocket.popup",
+  "version": "0.2.0",
+  "homepage": "https://github.com/uxrocket/uxrocket.popup",
+  "authors": [
+    "Bilal Çınarlı <bcinarli@gmail.com>"
+  ],
+  "description": "jQuery based popup",
+  "main": "lib/uxrocket.popup.js",
+  "dependencies": {
+    "jquery": ">=1.11.1"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+    "popup",
+    "uxrocket"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
